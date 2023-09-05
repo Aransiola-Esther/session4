@@ -1,0 +1,59 @@
+.calculator{
+    width: 650px;
+    height: 500px;
+    box-sizing: border-box;
+    border: 800px;
+    font-weight: bold;
+    margin: 3%;
+    border-radius: 400px;
+    border-width: 20%;
+    padding: 7px;
+          
+        
+}
+
+.calculator .yt{
+    background-color:#3c4043;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    color:white;
+    
+}
+
+.calculator .deepsky{
+    background-color:#8ab4f8;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    color:white;
+    
+    
+}
+.calculator .same{
+    text-align: end;
+    border-radius: 20px;
+    font-size: 20px;
+    color: black;
+        
+
+}
+
+.calculator .sky{
+    background-color: #5f6368;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+.calculator td{
+    width: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    
+   
+}
+
+
+
